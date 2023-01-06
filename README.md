@@ -1,0 +1,1 @@
+# Gestorstock-1.0
